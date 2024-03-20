@@ -1,0 +1,12 @@
+{
+  "name": "yourvehiclereview",
+  "version": "1.0.0",
+  "description": "<h2>Annoucement</h2>\r <p>Whenever you buy a vehicle there are a lot of questions in your mind about the particular vehicle that you wish to buy and there's always a positive or a negative point of the aspect of the vehicle that you own and you want to share it with your friends and family",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
